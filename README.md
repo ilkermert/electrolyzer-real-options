@@ -1,12 +1,11 @@
 # Real Options Investment Thresholds and Capacity-Stage Indicators for European Electrolyzer Manufacturing
 
-Authors: [author list and order, to be added]
+Authors: İlker Mert, Hüseyin Yağlı, Bulut Hüner, Coşkun Özalp
 
 This repository documents the inputs, parameter assumptions, data sources, and calculation steps of the research article (in preparation for submission):
 
 "Real Options Investment Thresholds and Capacity-Stage Indicators for European Electrolyzer Manufacturing"
 
-Note on scope: This repository contains documentation only. It contains no code and no data files. The analysis scripts and the data pre-processing steps are not shared, and the Web of Science records are not redistributed because of database license terms. The README states the formulas, every parameter value with its source, and the data used, so that each value can be traced to its origin. It does not allow the tables and figures of the paper to be reproduced, and the paper does not claim that it does.
 
 ## About the Study
 
@@ -182,3 +181,5 @@ The EHO data are open and are cited in the manuscript. Company figures come from
 Repository maintained by: [name and e-mail, to be added]
 
 Last updated: November 2026
+
+Note on scope: This repository contains documentation only. It contains no code and no data files. The analysis scripts and the data pre-processing steps are not shared, and the Web of Science records are not redistributed because of database license terms. The README states the formulas, every parameter value with its source, and the data used, so that each value can be traced to its origin. It does not allow the tables and figures of the paper to be reproduced, and the paper does not claim that it does.
