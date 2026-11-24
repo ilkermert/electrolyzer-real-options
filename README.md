@@ -1,6 +1,6 @@
 # Real Options Investment Thresholds and Capacity-Stage Indicators for European Electrolyzer Manufacturing
 
-Authors: [author list and order, to be added]
+Authors: İlker Mert, Hüseyin Yağlı, Bulut Hüner, Coşkun Özalp
 
 This repository contains representative code excerpts and methodological documentation for the research article (in preparation for submission):
 
@@ -8,7 +8,7 @@ This repository contains representative code excerpts and methodological documen
 
 It follows the manuscript's component order: each subsection below states the methodological component as described in the paper, immediately followed by a representative code excerpt implementing it. The excerpts are also available as stand-alone files.
 
-Note on scope: These are representative excerpts of the core calculations, included for transparency and to show how each step was done. The complete analysis script, the data pre-processing steps and the figure-generation code are not included, see "Contact and Data Availability" below. This repository does not allow the tables and figures of the paper to be reproduced, and the paper does not claim that it does.
+
 
 ## About the Study
 
@@ -93,6 +93,8 @@ Python 3, NumPy and pandas. Each file runs on its own (`python file.py`) and pri
 ## How to Read the Results
 
 The excerpts reproduce the formulas and the headline values of the manuscript, for example V*/I of 2.53 and 3.41 under the two volatility scenarios and a duration proxy of 36.9 months. They do not reproduce every table and figure. The sensitivity tables, the figures and the technology-specific tables depend on parts of the analysis that are not included.
+
+Note on scope: These are representative excerpts of the core calculations, included for transparency and to show how each step was done. The complete analysis script, the data pre-processing steps and the figure-generation code are not included, see "Contact and Data Availability" below. This repository does not allow the tables and figures of the paper to be reproduced, and the paper does not claim that it does.
 
 ## Citation
 
